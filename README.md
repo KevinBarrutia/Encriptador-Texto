@@ -1,4 +1,4 @@
-🛡️ Encriptador de Texto
+🛡️ # Encriptador de Texto
 Este proyecto es una aplicación web que encripta y desencripta textos utilizando reglas simples de sustitución de caracteres.
 
 🚀 Descripción
